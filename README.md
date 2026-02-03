@@ -4,9 +4,11 @@
 Ссылка на проект - @evlitoss_manager_bot
 
 
-![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/a220Wrus/ai_assistent/blob/main/image.png))
+![Иллюстрация к проекту]([[https://example.com/image.png](https://github.com/a220Wrus/ai_assistent/blob/main/image.png)](https://github.com/a220Wrus/ai_assistent/blob/main/image.png?raw=true))
+https://github.com/a220Wrus/ai_assistent/blob/main/image.png?raw=true
+https://github.com/a220Wrus/ai_assistent/blob/main/image.png?raw=true)
 
-
+![Иллюстрация к проекту](https://github.com/a220Wrus/ai_assistent/blob/main/image.png?raw=true)
 ---
 
 ## 📌 Обзор проекта
